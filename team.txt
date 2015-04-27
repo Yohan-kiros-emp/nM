@@ -4,6 +4,9 @@ Useful links to share with a fellow member of nMarket!
 1. Description: Learn Version Control with Git 
           Link: https://www.git-tower.com/learn/videos#episodes
 
-2. Description:
-          Link: 
+2. Description: If you want to learn about Git-Gui please fellow the link bellow, the Git-Gui is much easier than the bash
+          Link: https://www.youtube.com/watch?v=ov3_CkObQm8
 		  
+		   
+
+
